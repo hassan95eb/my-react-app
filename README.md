@@ -1,6 +1,6 @@
 # Todo App - Built with React
 
-![React](https://img.shields.io/badge/React-17.0.2-blue)
+![React](https://img.shields.io/badge/React-18.0.2-blue)
 
 This is a simple Todo application built using **React**, **JavaScript**, **HTML**, and **CSS**.
 
